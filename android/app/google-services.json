@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "32839292379",
+    "project_id": "timesheets-53257",
+    "storage_bucket": "timesheets-53257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32839292379:android:9b8e9c344a8d675af4c3fe",
+        "android_client_info": {
+          "package_name": "com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32839292379-nkec7j21h1938r1uoc2igdlp6sefb0qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGlzC3Z3F-eHleNEc6tU8kivFPlcdVCP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32839292379-nkec7j21h1938r1uoc2igdlp6sefb0qs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32839292379-s8u86lljnrdk5iqnjrv8ebcvbdg8k0d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
